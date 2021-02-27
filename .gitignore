@@ -1,0 +1,3 @@
+*.ipynb_checkpoints
+retail.dat
+store_data.csv
